@@ -34,7 +34,7 @@
             "name": "umbei"
         },                                                                   
         {
-            "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "url": "https://raw.liucn.cc/box/dc.json",
             "name": "老刘CC"
         },                                                     
         {
@@ -48,6 +48,10 @@
         {
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "南风线路"
+        },
+         {
+            "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌",
+            "name": "欧歌API"
         }
     ]
 }
