@@ -30,7 +30,7 @@
             "name": "放牛线路"
         }, 
        {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/umbei/tvbox/main/m.json",
+            "url": "https://fastly.jsdelivr.net/gh/umbei/tv@main/tv.json",
             "name": "umbei"
         },                                                                   
         {
@@ -48,10 +48,6 @@
         {
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "南风线路"
-        },
-        {
-            "url": "https://xn--8nn8-wn6lw489o.v.nxog.top/apia?id=1",
-            "name": "欧歌线路"
         }
     ]
 }
