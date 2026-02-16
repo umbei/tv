@@ -30,7 +30,7 @@
             "name": "放牛线路"
         }, 
        {
-            "url": "https://fastly.jsdelivr.net/gh/umbei/tv@main/tv.json",
+            "url": "https://raw.githubusercontent.com/umbei/tv/refs/heads/main/m.json",
             "name": "umbei"
         },                                                                   
         {
